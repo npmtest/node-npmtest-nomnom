@@ -1,4 +1,7 @@
-# test coverage for  [nomnom (v1.8.1)](https://github.com/harthur/nomnom)  [![npm package](https://img.shields.io/npm/v/npmtest-nomnom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nomnom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nomnom.svg)](https://travis-ci.org/npmtest/node-npmtest-nomnom)
+# npmtest-nomnom
+
+#### test coverage for  [nomnom (v1.8.1)](https://github.com/harthur/nomnom)  [![npm package](https://img.shields.io/npm/v/npmtest-nomnom.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nomnom) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nomnom.svg)](https://travis-ci.org/npmtest/node-npmtest-nomnom)
+
 #### Option parser with generated usage and commands
 
 [![NPM](https://nodei.co/npm/nomnom.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nomnom)
